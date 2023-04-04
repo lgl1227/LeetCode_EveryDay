@@ -13,6 +13,5 @@
 - [20230403 LeetCode1053.交换一次的先前排列](https://leetcode.cn/problems/previous-permutation-with-one-swap/) **贪心** &#x2705;
 - [20230404 LeetCode1000.合并石头的最低成本](https://leetcode.cn/problems/minimum-cost-to-merge-stones/) **区间dp** ❌  
 - [20230404 LeetCode504. 七进制数](https://leetcode.cn/problems/base-7/) &#x2705;
-- [20230405 LeetCode2427.公因子的数目](https://leetcode.cn/problems/number-of-arithmetic-triplets/) ![#ff8000]() `waiting doing`
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `waiting doing`
+- [20230405 LeetCode2427.公因子的数目](https://leetcode.cn/problems/number-of-arithmetic-triplets/) ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `waiting doing`
 - xxxxx明天继续xxxx  xxxx
