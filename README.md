@@ -15,3 +15,4 @@
 - [20230404 LeetCode504. 七进制数](https://leetcode.cn/problems/base-7/) &#x2705;
 - [20230405 LeetCode2427.公因子的数目](https://leetcode.cn/problems/number-of-arithmetic-triplets/) `#ff8000`waiting doing
 - xxxxx明天继续xxxx  xxxx
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
