@@ -1,5 +1,5 @@
 # LeetCode_EveryDay
-坚持LeetCode刷每日一题，Fire！！！
+坚持LeetCode每日刷一题，Fire！！！
 
 - [20230106 LeetCode14.最长公共前缀](https://leetcode.cn/problems/longest-common-prefix/) &#x2705;
 - [20230107 LeetCode20.有效的括号](https://leetcode.cn/problems/valid-parentheses/) &#x2705;
