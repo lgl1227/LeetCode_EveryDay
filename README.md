@@ -17,6 +17,7 @@
 - [20230406 LeetCode1017.负二进制转换](https://leetcode.cn/problems/convert-to-base-2/) &#x2705;
 - [20230407 LeetCode66.加一](https://leetcode.cn/problems/plus-one/solution/jia-yi-by-leetcode-solution-2hor/)&#x2705;
 - [20230408 LeetCode1897.重新分配字符使所有字符串都相等](https://leetcode.cn/problems/redistribute-characters-to-make-all-strings-equal/)&#x2705;
-- [20230409 LeetCode]()![#f03c15](https://blog-1304436410.cos.ap-beijing.myqcloud.com/leetcode/202304051946389.png)`waiting doing`
+- [20230409 LeetCode2399.检查相同字母间的距离](https://leetcode.cn/problems/check-distances-between-same-letters/)&#x2705;
+- [20230410 LeetCode]()![#f03c15](https://blog-1304436410.cos.ap-beijing.myqcloud.com/leetcode/202304051946389.png)- `waiting doing`
 - xxxxx明天继续xxxx  xxxx
 
