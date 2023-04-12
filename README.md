@@ -19,6 +19,8 @@
 - [20230408 LeetCode1897.重新分配字符使所有字符串都相等](https://leetcode.cn/problems/redistribute-characters-to-make-all-strings-equal/)&#x2705;
 - [20230409 LeetCode2399.检查相同字母间的距离](https://leetcode.cn/problems/check-distances-between-same-letters/)&#x2705;
 - [20230410 LeetCode刷题1019. 链表中的下一个更大节点](https://leetcode.cn/problems/next-greater-node-in-linked-list/)&#x2705;
+- [20230411 LeetCode刷题1041. 困于环中的机器人](https://leetcode.cn/problems/robot-bounded-in-circle/)&#x2705;
+- [20230412 LeetCode刷题1147. 段式会文](https://leetcode.cn/problems/longest-chunked-palindrome-decomposition/)
 - ![#f03c15](https://blog-1304436410.cos.ap-beijing.myqcloud.com/leetcode/202304051946389.png)- `waiting doing`
 - xxxxx明天继续xxxx  xxxx
 
